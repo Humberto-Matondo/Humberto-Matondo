@@ -8,15 +8,14 @@
  <em/>
 <hr>
 
+ 
 <div align="center">
   <a href="https://github.com/humberto-matondo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=humberto-matondo&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-matondo&theme=highcontrast&hide_border=false&&layout=compact"/>
   </a>
-</div>
 
-  
-<div align="center">
+<p></p><div align="center">
 <div style="display: inline_block">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
@@ -28,12 +27,11 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
   
+<div align="center">
 
-
+  ![Snake animation](https://github.com/humberto-matondo/Humberto-Matondo/blob/output/github-contribution-grid-snake.svg)
   
-<-- [Snake animation](https://github.com/humberto-matondo/Humberto-Matondo/blob/output/github-contribution-grid-snake.svg) -->
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
-  
+</div> 
   
 # THANKS FOR THE VISIT<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35px"> 
 
