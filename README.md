@@ -1,7 +1,7 @@
 <h3>👋🏿HELLO WORLD!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="17px"></h3>
 
 <em><p> 
-- I'm **Junior** BackEnd Developer looking for **professional proficiency**.🤌🏿
+- I'm **Junior** Back-End Developer looking for **professional proficiency**.🤌🏿
 - I'm from **Angola**, and I'm currently living in Luanda and I speak **Portuguese** and **English**.👨🏿‍💻
 - I am currently learning **Data Science**📊
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
