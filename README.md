@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/humberto-matondo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=humberto-matondo&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-matondo&theme=highcontrast&hide_border=false&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-matondo&theme=highcontrast&hide_border=false&&layout=compact"/>
   </a>
 
 <p></p><div align="center">
