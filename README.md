@@ -3,7 +3,6 @@
 <em><p> 
 - I'm **Junior** Back-End Developer looking for **professional proficiency**.🤌🏿
 - I'm from **Angola**, and I'm currently living in Luanda and I speak **Portuguese** and **English**.👨🏿‍💻
-- I am currently learning **Data Science**📊
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
  <em/>
 <hr>
