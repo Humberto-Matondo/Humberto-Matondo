@@ -1,4 +1,6 @@
+<img align="right" alt="Coding" width="300" src="https://media-exp1.licdn.com/dms/image/C4E22AQHqhTFTMF9MJw/feedshare-shrink_2048_1536/0/1663944993804?e=2147483647&v=beta&t=15BsZ6y3cu5e60pLON3JcqtG4myjnvf9a-ECpm3lCvI">
 <h3>👋🏿HELLO WORLD!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="17px"></h3>
+
 
 <em><p> 
 - I'm **Junior** Back-End Developer looking for **professional proficiency**.🤌🏿
@@ -31,7 +33,7 @@
   ![Snake animation](https://github.com/humberto-matondo/Humberto-Matondo/blob/output/github-contribution-grid-snake.svg)
   
 </div> 
-  
+ 
 # THANKS FOR THE VISIT<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35px"> 
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/humberto-matondo/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Humbertomat99@gmail.com) 
