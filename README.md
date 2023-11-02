@@ -3,7 +3,7 @@
 
 
 <em><p> 
-- I'm **Python** Developer jr looking for **professional proficiency**.🤌🏿
+- I'm **Python** Developer looking for **professional proficiency**.🤌🏿
 - I'm from **Angola**, and I'm currently living in Luanda and I speak **Portuguese** and **English**.👨🏿‍💻
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
  <em/>
