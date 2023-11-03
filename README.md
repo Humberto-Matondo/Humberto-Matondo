@@ -1,10 +1,10 @@
 <img align="right" alt="Coding" width="300" src="https://media-exp1.licdn.com/dms/image/C4E22AQHqhTFTMF9MJw/feedshare-shrink_2048_1536/0/1663944993804?e=2147483647&v=beta&t=15BsZ6y3cu5e60pLON3JcqtG4myjnvf9a-ECpm3lCvI">
-<h3>👋🏿HELLO WORLD!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="17px"></h3>
+<h3>👋🏿HELLO WORLD!
 
 
 <em><p> 
 - I'm **Python** Developer looking for **professional proficiency**.🤌🏿
-- I'm from **Angola**, and I'm currently living in Luanda and I speak **Portuguese** and **English**.👨🏿‍💻
+- I'm from **Angola**, and I'm currently living in **Luanda**.👨🏿‍💻
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
  <em/>
 <hr>
@@ -26,14 +26,8 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://pbs.twimg.com/media/Ff3W1jKWYAEvj1p?format=png&name=small" alt="Java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
-  
-<div align="center">
 
-  ![Snake animation](https://github.com/humberto-matondo/Humberto-Matondo/blob/output/github-contribution-grid-snake.svg)
-  
-</div> 
- 
-# THANKS FOR THE VISIT<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="35px"> 
+# THANKS FOR THE VISIT!
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/humberto-matondo/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Humbertomat99@gmail.com) 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/humbertomat99)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Matondo_98) 
