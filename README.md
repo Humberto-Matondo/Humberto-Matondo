@@ -4,7 +4,6 @@
 
 <em><p> 
 - I'm **Python** Developer looking for **professional proficiency**.🤌🏿
-- I'm from **Angola**, and I'm currently living in **Luanda**.👨🏿‍💻
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
  <em/>
 <hr>
