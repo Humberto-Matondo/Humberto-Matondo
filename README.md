@@ -1,9 +1,9 @@
 <img align="right" alt="Coding" width="300" src="https://media-exp1.licdn.com/dms/image/C4E22AQHqhTFTMF9MJw/feedshare-shrink_2048_1536/0/1663944993804?e=2147483647&v=beta&t=15BsZ6y3cu5e60pLON3JcqtG4myjnvf9a-ECpm3lCvI">
-<h3>👋🏿HELLO WORLD!
+<h3>👋🏿HELLO WORLD!<h3>
 
 
 <em><p> 
-- I'm **Python** Developer looking for **professional proficiency**.🤌🏿
+- I'm **Python Developer** and **BackEnd Developer** looking for **professional proficiency**.🤌🏿
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
  <em/>
 <hr>
