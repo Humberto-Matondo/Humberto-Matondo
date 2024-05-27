@@ -3,7 +3,7 @@
 
 
 <em><p> 
-- I'm **Python Developer** and **BackEnd Developer** looking for **professional proficiency**.🤌🏿
+- I'm **Python Back-end Developer** and **front-End Developer**.
 - Pronouns: **He/Him**.👨🏿‍🦱<p/>
  <em/>
 <hr>
