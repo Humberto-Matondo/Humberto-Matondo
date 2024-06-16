@@ -16,8 +16,8 @@ I'm a **Full-Stack Developer** with 2 years of experience. Continuously working 
  
 <div align="center">
   <a href="https://github.com/humberto-matondo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=humberto-matondo&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=True&show_owner=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-matondo&theme=highcontrast&hide_border=true&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=humberto-matondo&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto-matondo&theme=highcontrast&hide_border=false&&layout=compact"/>
   </a>
 
 <br><br>
