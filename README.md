@@ -1,13 +1,17 @@
-<img align="right" alt="Coding" width="300" src="https://media-exp1.licdn.com/dms/image/C4E22AQHqhTFTMF9MJw/feedshare-shrink_2048_1536/0/1663944993804?e=2147483647&v=beta&t=15BsZ6y3cu5e60pLON3JcqtG4myjnvf9a-ECpm3lCvI">
-<h3>👋🏿HELLO WORLD!<h3>
+👋🏿HELLO WORLD!
+============================
+ 
+<img align="right" alt="Coding" width="330" src="https://media-exp1.licdn.com/dms/image/C4E22AQHqhTFTMF9MJw/feedshare-shrink_2048_1536/0/1663944993804?e=2147483647&v=beta&t=15BsZ6y3cu5e60pLON3JcqtG4myjnvf9a-ECpm3lCvI">
 
+Self employed developer, blogger, YT, running an online school focused on building awesome apps with Ionic. Indie Hacker whenever possible. Bootstrapped.
+<br>
 
-<em><p> 
-- I'm **Python Back-end Developer** and **front-End Developer**.
-- Pronouns: **He/Him**.👨🏿‍🦱<p/>
- <em/>
-<hr>
+* 🌍  I'm based in Lisboa, Portugal
+* 🖥️  See my portfolio at [Humberto Matondo](https://humberto-matondo.vercel.app)
+* ✉️  You can contact me at [Humbertomat99@gmail.com](mailto:Humbertomat99@gmail.com)
+* 🎯  I'm looking for job opportunities and freelance projects
 
+<br>
  
 <div align="center">
   <a href="https://github.com/humberto-matondo">
