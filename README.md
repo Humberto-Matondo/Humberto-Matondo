@@ -7,7 +7,7 @@
 I'm a **Full-Stack Developer** with 2 years of experience. Continuously working on projects to enhance my skills and contribute to the community, I thrive on solving problems and adding value wherever I can.
 <br>
 
-* 🌍  I'm based in Lisboa, Portugal
+* 🌍  I'm based in Lisbon, Portugal
 * 🖥️  See my portfolio at [Humberto Matondo](https://humberto-matondo.vercel.app)
 * ✉️  Contact me at [Humbertomat99@gmail.com](mailto:Humbertomat99@gmail.com)
 * 🎯  I'm looking for job opportunities and freelance projects
