@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="360" src="https://media-exp1.licdn.com/dms/image/C4E22AQHqhTFTMF9MJw/feedshare-shrink_2048_1536/0/1663944993804?e=2147483647&v=beta&t=15BsZ6y3cu5e60pLON3JcqtG4myjnvf9a-ECpm3lCvI">
 
 
-I'm a **Full-Stack Developer** with 2 years of experience. Continuously working on projects to enhance my skills and contribute to the community, I thrive on solving problems and adding value wherever I can.
+I'm a **Python Full-Stack Developer** with 2 years of experience. Continuously working on projects to enhance my skills and contribute to the community, I thrive on solving problems and adding value wherever I can.
 <br>
 
 * 🌍  I'm based in Lisbon, Portugal
